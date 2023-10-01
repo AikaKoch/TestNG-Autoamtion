@@ -31,6 +31,5 @@ public class Google {
     public void googleImage (){
         Driver.setDriver("chrome").get("https://google.com");
         System.out.println("checking some images");
-//just adding a comment
             }
 }
